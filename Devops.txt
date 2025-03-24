@@ -1,0 +1,68 @@
+Introduction to DevOps  
+
+- What is DevOps?  
+- DevOps Main Objectives  
+- DevOps and Software Development Life Cycle  
+- Continuous Integration & Deployment  
+- Containers and Virtual Development  
+- Cloud Providers  
+- Scripting  
+- Configuration Management Tools  
+
+---
+
+
+
+DevOps  
+- Developers write code.  
+- Operations host, deploy, monitor, maintain, and scale the application.  
+
+---
+
+Objectives:  
+- Maintain the code  
+- Deploy the code  
+- Monitor the code  
+- Scale the code  
+
+---
+
+Containers  
+1. Team  
+2. Servers  
+
+---
+
+Server  
+1. Home - Public IP  
+2. Cloud Provider  
+
+---
+
+Cloud Provider:  
+1. Servers  
+2. IP  
+3. DNS  
+4. Databases  
+5. Runtimes  
+
+---
+
+Cloud Providers:  
+- AWS (Amazon Web Services)  
+- Azure (Microsoft Azure)  
+- GCP (Google Cloud Platform)  
+
+---
+
+Scripting/Basic Dev:  
+1. Bash - Bourne Again Shell  
+2. Python  
+
+---
+
+Configuration Management Tools:  
+1. Ansible  
+2. Nginx  
+
+---
